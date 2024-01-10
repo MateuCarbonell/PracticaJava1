@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Simplemente en vez de usar brake se añade un booleano mas para condicionar el bucle a salir cuando credencialesCorrectas sea true.
 public class ComprobarCredencialesSinBreak {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
